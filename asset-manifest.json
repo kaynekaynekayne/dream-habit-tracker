@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dream-habit-tracker/static/css/main.3e40206a.css",
+    "main.js": "/dream-habit-tracker/static/js/main.164374bf.js",
+    "index.html": "/dream-habit-tracker/index.html",
+    "main.3e40206a.css.map": "/dream-habit-tracker/static/css/main.3e40206a.css.map",
+    "main.164374bf.js.map": "/dream-habit-tracker/static/js/main.164374bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e40206a.css",
+    "static/js/main.164374bf.js"
+  ]
+}
